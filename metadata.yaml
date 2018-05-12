@@ -1,0 +1,37 @@
+_repo: Le-Collier-de-la-Reine-Tome-I_18199
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18199'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biographical fiction'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793
+  -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Queens -- France -- Fiction'
+- !lcsh 'France -- History -- Louis XVI, 1774-1793 -- Fiction'
+- !lcsh 'Cagliostro, Alessandro, conte di, 1743-1795 -- Fiction'
+title: Le Collier de la Reine, Tome I
+url: http://www.gutenberg.org/ebooks/18199
